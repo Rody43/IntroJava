@@ -16,6 +16,7 @@ public class Medidas {
 
         // Utilizar a classe Scanner do Java para ler a escolha do usuário no console
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Bom dia");
         System.out.println("M E N U   D E   O P Ç Õ E S");
         System.out.println("c - Calcular Area Modo Curto");
         System.out.println("d - Contar até Dez");
